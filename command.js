@@ -1,4 +1,4 @@
-// DARKZONE-MD 
+// HadiPlay.xyz 
 var commands = [];
 
 function cmd(info, func) {
