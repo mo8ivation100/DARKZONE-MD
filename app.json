@@ -1,8 +1,8 @@
 {
-  "name": "DARKZONE-MD",
-  "description": "Javascript WhatsApp bot made by 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟",
-  "logo": "https://files.catbox.moe/jecbfo.jpg",
-  "keywords": ["DARKZONE-MD"],
+  "name": "HadiPlay.xyz",
+  "description": "Javascript WhatsApp bot made by HadiPlay.xyz",
+  "logo": "https://files.catbox.moe/qw8ym0.jpg",
+  "keywords": ["HadiPlay.xyz"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝐸𝑅𝐹𝒜𝒩"
+      "value": "HadiPlay.xyz"
     }, 
       
     "PREFIX": {
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY DARKZONE-MD ❤️*"
+      "value": "*SEEN YOUR STATUS BY HadiPlay.xyz ❤️*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ERFAN"
+      "value": "HadiPlay.xyz"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923306137477"
+      "value": "923146412704"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "DARKZONE-MD"
+      "value": "HadiPlay.xyz"
 
       }, 
 
@@ -131,7 +131,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://i.ibb.co/Sw4pzTWC/IMG-20260124-WA0728.jpg"
+      "value": "https://i.ibb.co/tpyFRgfv/Chat-GPT-Image-Jan-25-2026-12-44-56-AM.jpg"
     },
     
      "DESCRIPTION": {
